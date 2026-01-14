@@ -1,0 +1,58 @@
+[
+	{
+		"name":"bubble",
+		"display_name":"Bubble",
+		"files":["bubble_1.wav","bubble_2.wav","bubble_3.wav","bubble_4.wav","bubble_5.wav","bubble_6.wav","bubble_7.wav","bubble_8.wav", "bubble_enter.wav"],
+		"non_unique_count":8,
+		"key_audio_map":{"36":8}
+	},
+	
+	{
+		"name":"typewriter",
+		"display_name":"Typewriter",
+		"files":["typewriter_key-new-05.wav","typewriter_key-new-04.wav","typewriter_key-new-03.wav","typewriter_key-new-02.wav","typewriter_key-new-01.wav","typewriter_space-new.wav","typewriter_scrollUp.wav","typewriter_scrollDown.wav","typewriter_backspace.wav", "typewriter_return-new.wav"],
+		"non_unique_count":5,
+		"key_audio_map":{"36":9, "49":5, "51":8}
+	},
+	
+	{
+		"name": "mechanical",
+		"display_name":"Mechanical",
+		"files":["mechanical_1.wav", "mechanical_2.wav", "mechanical_3.wav", "mechanical_4.wav", "mechanical_5.wav"],
+		"non_unique_count":4,
+		"key_audio_map":{"36":4}
+	},
+
+	{
+		"name": "sword",
+		"display_name": "Sword",
+		"files": ["sword_1.wav", "sword_2.wav", "sword_3.wav", "sword_4.wav", "sword_5.wav", "sword_6.wav", "sword_back.wav", "sword_enter.wav", "sword_space.wav"],
+		"non_unique_count": 6,
+		"key_audio_map":{"36": 7,"49":8, "51":6}
+	},
+
+	{
+		"name": "Cherry_G80_3000",
+		"display_name": "Cherry G80-3000",
+		"files": ["g3000_G80-3000.wav", "g3000_G80-3000_fast1.wav", "g3000_G80-3000_slow1.wav", "g3000_G80-3000_fast2.wav","g3000_G80-3000_slow2.wav"],
+		"non_unique_count": 5,
+		"key_audio_map":{"36": 4, "49": 4}
+	},
+
+	{
+		"name": "Cherry_G80_3494",
+		"display_name": "Cherry G80-3494",
+		"files": ["g3494_G80-3494.wav", "g3494_G80-3494_fast1.wav", "g3494_G80-3494_slow1.wav", "g3494_G80-3494_enter.wav", "g3494_G80-3494_space.wav", "g3494_G80-3494_backspace.wav"],
+		"non_unique_count": 3,
+		"key_audio_map":{"36": 3, "49": 4, "51": 5}
+	},
+
+	{
+		"name": "drum",
+		"display_name": "Drum",
+		"files": ["drum_1.wav", "drum_2.wav", "drum_3.wav", "drum_4.wav", "drum_space.wav", "drum_backspace.wav", "drum_enter.wav"],
+		"non_unique_count": 4,
+		"key_audio_map":{"36": 6, "49": 4, "51": 5}
+	}
+
+]
